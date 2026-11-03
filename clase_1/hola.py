@@ -1,0 +1,5 @@
+print(r"Hola mundo!")
+print(r"Norman Beltran")
+print(r"C:\nuevo\programa.py")
+print(r"C:\viejo\programa.py")
+print(7 + 5)
